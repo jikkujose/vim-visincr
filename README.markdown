@@ -173,7 +173,7 @@ II         VI
 
 ## Credit
 
-[Charles Campbell][cec] is the original author of the plugin, more info can be found at his [site][site]. The plugin is mived to Github for easy installation using the modern plugin managers.
+[Charles Campbell][cec] is the original author of the plugin, more info can be found at his [site][site]. The plugin is moved to Github for easy installation using the modern plugin managers.
 
 [cec]: http://vim.sourceforge.net/account/profile.php?user_id=96<Paste>
 [site]: http//www.drchip.org/astronaut/vim/index.html#VISINCR
